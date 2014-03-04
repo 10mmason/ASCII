@@ -1,6 +1,6 @@
 print ('a' in 'boat')
 #Expected outcome is
-print ('c in 'boat')
+print ('c' in 'boat')
 #Expected outcome is
 print ('2' + '2')
 #Expected outcome is
