@@ -1,0 +1,1 @@
+def wordforloop(word)
