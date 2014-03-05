@@ -1,4 +1,4 @@
-def wordforloop(word)
+def wordForloop(word):
     for letter in word:
         print (letter)
         print (" ")
@@ -6,5 +6,5 @@ def wordforloop(word)
 words = ['hello','year','ten']
 
 for word in words:
-    wordforloop(word)
+    wordForloop(word)
     print('-----')
